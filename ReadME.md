@@ -1,0 +1,1 @@
+We've strategically positioned ultrasonic sensors on all four sides of the shoe to ensure comprehensive object detection. This setup allows the smart shoe to detect obstacles or hazards approaching from any direction, providing the wearer with timely alerts and enhancing their situational awareness.
